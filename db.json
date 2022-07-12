@@ -1,0 +1,38 @@
+{
+  "productList": [
+    {
+      "productName": "Banana",
+      "date": "2022-07-11T18:30:00.000Z",
+      "price": 980,
+      "comment": "updated product",
+      "category": "Fruits",
+      "id": 1
+    },
+    {
+      "productName": "Geyser",
+      "date": "2025-02-04T18:30:00.000Z",
+      "price": 5000,
+      "comment": "gadget changed",
+      "category": "Electronics",
+      "id": 7
+    },
+    {
+      "productName": "Tomato",
+      "date": "2022-07-14T18:30:00.000Z",
+      "price": 200,
+      "comment": "vegatable added",
+      "category": "Vegetables",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
